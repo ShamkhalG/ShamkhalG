@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior developer, who seeks to profound his knowledge in Computer Science
+I am a Master's 2 student in IoT and Cybersecurity at the University of Lille. I am seeking an internship of 6 months for the period March 2026 - August 2026.
 
 
 ## 🌐 Socials:
