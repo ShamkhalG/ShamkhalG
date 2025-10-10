@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Master's 2 student in IoT and Cybersecurity at the University of Lille. I am seeking an internship of 6 months for the period March 2026 - August 2026.
+I am a Master's 2 student in IoT and Cybersecurity at the University of Lille. I am seeking an internship of 6 months in Cybersecurity or IoT for the period March 2026 - August 2026.
 
 
 ## 🌐 Socials:
