@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Master's 2 student in IoT and Cybersecurity at the University of Lille.
+I studied my bachelor's in Computer Science at the French-Azerbaijani University (UFAZ) in Baku, Azerbaijan, earning a dual diploma from Azerbaijan State Oil and Industry University (ASOIU) and the University of Strasbourg (UNISTRA). I also finished my master's in Internet of Things and Cybersecurity at the University of Lille. I have experience with various programming languages, most notably Python, C, and the JavaScript Vue.js library. I also gained knowledge of ROS 2 during my internship with multi-robot systems. I am interested in deepening my knowledge in IoT and apply it in practice.
 
 
 ## 🌐 Socials:
